@@ -1,2 +1,2 @@
-# sport_analytics
+# Sport Analytics
 Sports betting analytics 
