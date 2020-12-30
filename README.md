@@ -20,7 +20,7 @@ pip install plotly
 ```
 
 
-<p align="right">
+<p align="left">
   <img src="https://github.com/yssefunc/sport_analytics/blob/main/img/prob.png">
 </p>
 
