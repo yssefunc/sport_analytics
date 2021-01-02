@@ -18,11 +18,11 @@ pip install ipywidgets
 pip install nbextensions
 pip install plotly
 ```
-<hr style="width:40%">
-
 <p align="left">
   <img src="https://github.com/yssefunc/sport_analytics/blob/main/img/prob.png">
 </p>
+
+<hr style="width:40%">
 
 <b>When you run the code, you will see the sample dashboard like this.</b>
 ![Algorithm schema](https://github.com/yssefunc/sport_analytics/blob/main/img/gif.gif)
