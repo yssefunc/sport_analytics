@@ -26,7 +26,7 @@ pip install plotly
 </p>
 
 <hr style="width:40%">
-# How to run the system?
+# How to run system?
 When you run the code, you will see the sample dashboard like this.
 ![Algorithm schema](https://github.com/yssefunc/sport_analytics/blob/main/img/gif.gif)
 
