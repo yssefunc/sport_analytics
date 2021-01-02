@@ -18,7 +18,7 @@ pip install ipywidgets
 pip install nbextensions
 pip install plotly
 ```
-
+<hr style="width:40%">
 
 <p align="left">
   <img src="https://github.com/yssefunc/sport_analytics/blob/main/img/prob.png">
