@@ -1,5 +1,5 @@
 # Sport Analytics
-Simple betting analytics with Python. 
+Simple betting analytics with Python. It has two parts which are data-preprocessing and exploratory data analysis.
 
 | 1  |2 |3|4|5|6|7|8|
 |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
