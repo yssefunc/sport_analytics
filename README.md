@@ -1,8 +1,7 @@
 # Sport Analytics
 Simple betting analytics with Python. It has two parts which are data-preprocessing(code/preprocess.ipynb) and exploratory data analysis(code/eda.ipynb).
 
-#Bet options
-List below 
+# Bet Options
 The list below contains the most popular type of bets on football.
 | 1  |2 |3|4|5|6|7|8|
 |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
@@ -27,7 +26,7 @@ pip install plotly
 </p>
 
 <hr style="width:40%">
-
+# How to run?
 When you run the code, you will see the sample dashboard like this.
 ![Algorithm schema](https://github.com/yssefunc/sport_analytics/blob/main/img/gif.gif)
 
