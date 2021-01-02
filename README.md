@@ -13,6 +13,7 @@ Simple betting analytics with Python. It has two parts which are data-preprocess
 |4.5_under_final|4.5_above_final|MS_1_under_2_5|MS_0_under_3_5|MS_2_above_4_5|home_goal_concede|zero_two|-|
 
 # Installation
+Use the package manager pip to install foobar. 
 ```
 pip install ipywidgets
 pip install nbextensions
