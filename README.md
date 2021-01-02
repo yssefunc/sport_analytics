@@ -24,7 +24,7 @@ pip install plotly
   <img src="https://github.com/yssefunc/sport_analytics/blob/main/img/prob.png">
 </p>
 
-When you run the code, you will see the sample dashboard like this.
+<b>When you run the code, you will see the sample dashboard like this.</b>
 ![Algorithm schema](https://github.com/yssefunc/sport_analytics/blob/main/img/gif.gif)
 
 
