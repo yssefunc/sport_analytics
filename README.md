@@ -1,7 +1,7 @@
 # Sport Analytics
 Simple betting analytics with Python. It has two parts which are data-preprocessing(code/preprocess.ipynb) and exploratory data analysis(code/eda.ipynb).
 
-https://medium.com/analytics-vidhya/sports-analytics-in-python-part-1-12e4907da227
+https://medium.com/analytics-vidhya/sports-analytics-in-python-part-1-12e4907da227 <br>
 https://medium.com/analytics-vidhya/exploratory-data-analysis-in-sports-analytics-part-2-5ba6aa50cd5
 
 
