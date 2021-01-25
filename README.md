@@ -1,6 +1,10 @@
 # Sport Analytics
 Simple betting analytics with Python. It has two parts which are data-preprocessing(code/preprocess.ipynb) and exploratory data analysis(code/eda.ipynb).
 
+https://medium.com/analytics-vidhya/sports-analytics-in-python-part-1-12e4907da227
+https://medium.com/analytics-vidhya/exploratory-data-analysis-in-sports-analytics-part-2-5ba6aa50cd5
+
+
 # Bet Options
 The list below contains the most popular type of bets on football.
 | 1  |2 |3|4|5|6|7|8|
